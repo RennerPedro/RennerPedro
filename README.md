@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## about me
+I'm a 21 y/o brazilian, studying Data Analytics and Development in Florianópolis, Santa Catarina, Brazil.
+This is my test for a ReadMe introduction and of course i'm gonna change it based on my experience throughout the course.
