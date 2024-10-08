@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/pedrohenriquerenner/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="pedroh.renner@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxTsJZrHGwPvxscpkQQmFXXDkDbJjThvHmLQbjpGglGnMbvFFGpVKFLpLqWbqdvlvjcDnK" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-renner-030619213/" target="_blank">
@@ -49,20 +49,16 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RennerPedro/count.svg?"  />
+  <a href="https://open.spotify.com/user/b28wuyttrpdj1aqj5p4m66po9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=b28wuyttrpdj1aqj5p4m66po9&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Pedro H R">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=PedroHR&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/RennerPedro/count.svg?"  />
 </div>
 
 ###
