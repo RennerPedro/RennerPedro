@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Henrique Renner and I'm a Software Developer at Water Services and Technologias, from Florianópolis, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Pedro Henrique Renner and I'm a Software Developer at Water Services and Technologies, from Florianópolis, Brazil</h2>
 
 ###
 
